@@ -1,0 +1,20 @@
+/home/rao/gps/bin/Gps-debug-unaligned.apk : \
+/home/rao/gps/bin/Gps.ap_ \
+/home/rao/gps/bin/classes.dex \
+/home/rao/gps/src/ruboto/widget.rb \
+/home/rao/gps/src/ruboto/version.rb \
+/home/rao/gps/src/ruboto/menu.rb \
+/home/rao/gps/src/ruboto/activity.rb \
+/home/rao/gps/src/ruboto/broadcast_receiver.rb \
+/home/rao/gps/src/ruboto/package.rb \
+/home/rao/gps/src/ruboto/preference.rb \
+/home/rao/gps/src/ruboto/base.rb \
+/home/rao/gps/src/ruboto/service.rb \
+/home/rao/gps/src/ruboto/generate.rb \
+/home/rao/gps/src/ruboto/util/toast.rb \
+/home/rao/gps/src/ruboto/util/stack.rb \
+/home/rao/gps/src/ruboto/legacy.rb \
+/home/rao/gps/src/ruboto.rb \
+/home/rao/gps/src/gps_activity.rb \
+/opt/android-sdk/tools/support/annotations.jar \
+/home/rao/gps/libs/dexmaker20120305.jar \
